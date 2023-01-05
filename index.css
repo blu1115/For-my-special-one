@@ -18,7 +18,7 @@ body{
     border: 3px solid white;
     border-radius: 10px;
     position: absolute;
-    top: 80px;
+    top: 100px;
     left: 50%;
 }
 .no{
@@ -30,7 +30,7 @@ body{
     border: 3px solid white;
     border-radius: 10px;
     position: absolute;
-    top: 80px;
+    top: 100px;
     left: 32%;
 }
 .no a{
